@@ -1,0 +1,18 @@
+-r
+C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\My Amplifier Results - WpfApplication1\r004cc
+--stack-stitching
+--data-limit-mb=500
+--disk-space-limit=0
+--mrte-type=java,dotnet
+--itt-config=frame
+--itt-config=task,event,counter
+--stackwalk=offline
+--mrte-mode=managed
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=10
+--type=threading:stack
+--type=waiting:stack
+--type=io:stack
+--
+C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\bin\Release\WpfApplication1.exe

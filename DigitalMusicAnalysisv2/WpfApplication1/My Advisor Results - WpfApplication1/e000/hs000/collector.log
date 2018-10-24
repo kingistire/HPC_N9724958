@@ -1,0 +1,125 @@
+Collection status has changed. 1
+Collection has been started.
+Collection has stopped. Application exit code:  0
+Finalizing results
+Finalizing the result
+Clearing the database
+The database has been cleared, elapsed time is 0.237 seconds.
+Loading raw data to the database
+Loading 'systemcollector-10096-DESKTOP-NHFBF5K.sc' file
+Loading '5216-20744.0.trace' file
+Updating precomputed scalar metrics
+Raw data has been loaded to the database, elapsed time is 2.322 seconds.
+Processing profile metrics and debug information
+Data transformations have been finished, elapsed time is 0.000 seconds.
+Setting data model parameters
+Resolving module symbols
+Resolving information for `WindowsBase.dll'
+Resolving information for `win32u.dll'
+Resolving information for `wdmaud.drv'
+Resolving information for `kernel32.dll'
+Resolving information for `bcryptprimitives.dll'
+Resolving information for `WindowsCodecs.dll'
+Resolving information for `WindowsBase.ni.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\wdmaud.drv'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\kernel32.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\bcryptprimitives.dll'.
+Warning: Cannot locate debugging information for file `C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\WindowsBase\989e662dc0f5c45d380fbfbd5f042ea8\WindowsBase.ni.dll'.
+Cannot match the module with the symbol file `C:\Users\Jason\AppData\Local\Temp\SymbolCache\WindowsBase.pdb\C896EA1D48234A9AB3C9B2D5514E8A301\WindowsBase.pdb'. Make sure to specify the correct path to the symbol file in the Binary/Symbol Search list of directories.
+Resolving information for `PresentationCore.ni.dll'
+Resolving information for `PresentationFramework.dll'
+Resolving information for `quartz.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\quartz.dll'.
+Resolving information for `PresentationNative_v0400.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll'.
+Warning: Cannot locate debugging information for file `C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\PresentationCore\67d6dc9830c62a258a26a9cfc2b1dbfd\PresentationCore.ni.dll'.
+Cannot match the module with the symbol file `C:\Users\Jason\AppData\Local\Temp\SymbolCache\PresentationCore.pdb\96CB61B11C0B49B5A06A0673597266FB2\PresentationCore.pdb'. Make sure to specify the correct path to the symbol file in the Binary/Symbol Search list of directories.
+Resolving information for `k_fps32.dll'
+Resolving information for `System.Xaml.dll'
+Resolving information for `NAudio.dll'
+Warning: Cannot locate debugging information for file `C:\Program Files (x86)\Razer\Razer Cortex\k_fps32.dll'.
+Resolving information for `user32.dll'
+Resolving information for `dui70.dll'
+Resolving information for `msvcrt.dll'
+Warning: Cannot locate debugging information for file `C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\bin\Release\NAudio.dll'.
+Resolving information for dangling locations
+Resolving information for `gdi32full.dll'
+Resolving information for `shell32.dll'
+Resolving information for `KernelBase.dll'
+Resolving information for `System.Configuration.dll'
+Resolving information for `nvd3dum.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\dui70.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\msvcrt.dll'.
+Resolving information for `combase.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\KernelBase.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\combase.dll'.
+Resolving information for `crypt32.dll'
+Resolving information for `System.Numerics.dll'
+Resolving information for `clr.dll'
+Resolving information for `AudioSes.dll'
+Resolving information for `dsound.dll'
+Resolving information for `msvcr120_clr0400.dll'
+Resolving information for `winmmbase.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\shell32.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\crypt32.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\AudioSes.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\dsound.dll'.
+Resolving information for `winmm.dll'
+Resolving information for `propsys.dll'
+Resolving information for `ntdll.dll'
+Resolving information for `PresentationFramework.ni.dll'
+Resolving information for `wpfgfx_v0400.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\system32\DriverStore\FileRepository\nv_dispui.inf_amd64_a9b1e11d93a651da\nvd3dum.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\winmmbase.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\winmm.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\propsys.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll'.
+Resolving information for `SHCore.dll'
+Resolving information for `d3d9.dll'
+Resolving information for `PresentationCore.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\SHCore.dll'.
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\d3d9.dll'.
+Warning: Cannot locate debugging information for file `C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\6c1e64d8874d596ce32e0f798d95fc95\PresentationFramework.ni.dll'.
+Cannot match the module with the symbol file `C:\Users\Jason\AppData\Local\Temp\SymbolCache\PresentationFramework.pdb\EBF8225B238E47AE983A9F6138EF77901\PresentationFramework.pdb'. Make sure to specify the correct path to the symbol file in the Binary/Symbol Search list of directories.
+Resolving information for `WpfApplication1.exe'
+Resolving information for `System.Windows.Forms.dll'
+Resolving information for `System.dll'
+Resolving information for `Microsoft.DirectX.AudioVideoPlayback.dll'
+Resolving information for `rpcrt4.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\rpcrt4.dll'.
+Resolving information for `gdiplus.dll'
+Warning: Cannot locate debugging information for file `C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17134.345_none_73dac4159f74062c\gdiplus.dll'.
+Resolving information for `clrjit.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll'.
+Resolving information for `duser.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\SysWOW64\duser.dll'.
+Resolving information for `System.Numerics.ni.dll'
+Warning: Cannot locate debugging information for file `C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Numerics\4acab444c73c58def200b027975b5166\System.Numerics.ni.dll'.
+Cannot match the module with the symbol file `C:\Users\Jason\AppData\Local\Temp\SymbolCache\System.Numerics.pdb\D16087FEABFA4B97A050FA66F46161A52\System.Numerics.pdb'. Make sure to specify the correct path to the symbol file in the Binary/Symbol Search list of directories.
+Resolving information for `mscorlib.ni.dll'
+Warning: Cannot locate debugging information for file `C:\Windows\Microsoft.NET\Framework\v4.0.30319\NativeImages\mscorlib.ni.dll'.
+Cannot match the module with the symbol file `C:\Users\Jason\AppData\Local\Temp\SymbolCache\mscorlib.pdb\9F4DB9C5B0604AFFB1753B8B3E3CB05D2\mscorlib.pdb'. Make sure to specify the correct path to the symbol file in the Binary/Symbol Search list of directories.
+Resolving bottom user stack information
+Resolving thread name information
+Resolving call target names for dynamic code
+Symbol resolution has been finished, elapsed time is 2.156 seconds.
+Processing profile metrics and debug information
+Deferred data transformations have been finished, elapsed time is 0.029 seconds.
+Setting data model parameters
+Data model parameters have been set, elapsed time is 0.034 seconds.
+Precomputing frequently used data
+Precomputing frequently used data
+Updating precomputed scalar metrics
+Precomputing frequently used data has been finished, elapsed time is 0.163 seconds.
+Discarding redundant overtime data
+Saving the result
+Redundant overtime data has been discarded, elapsed time is 0.017 seconds.
+Raw collector data has been discarded, elapsed time is 0.000 seconds.
+Finalizing the result took 5.465 seconds.
+Preparing data for display of survey call tree
+Resolving module symbols
+Resolving bottom user stack information
+Resolving thread name information
+Resolving call target names for dynamic code
+Precomputing frequently used data

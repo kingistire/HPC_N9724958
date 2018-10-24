@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY_EX" >
+  <hotspot filename="C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\MainWindow.xaml.cs"
+           line_no="842"
+           routine="WpfApplication1::MainWindow::fft"
+           is_vectorized="0"
+           self_time="4.491327E-001"
+           total_time="4.491327E-001"
+           trip_counts=""
+           func_instance="280"
+           priority="0"/>
+  <hotspot filename="C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\timefreq.cs"
+           line_no="150"
+           routine="WpfApplication1::timefreq::fft"
+           is_vectorized="0"
+           self_time="4.396936E-001"
+           total_time="4.396936E-001"
+           trip_counts=""
+           func_instance="224"
+           priority="0"/>
+  <hotspot filename="C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\timefreq.cs"
+           line_no="135"
+           routine="WpfApplication1::timefreq::fft"
+           is_vectorized="0"
+           self_time="8.081984E-002"
+           total_time="8.081984E-002"
+           trip_counts=""
+           func_instance="226"
+           priority="0"/>
+  <hotspot filename="C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\MainWindow.xaml.cs"
+           line_no="419"
+           routine="WpfApplication1::MainWindow::onsetDetection"
+           is_vectorized="1"
+           self_time="1.992994E-002"
+           total_time="1.992994E-002"
+           trip_counts=""
+           func_instance="283"
+           priority="0"/>
+  <hotspot filename="C:\Users\Jason\Documents\Uni\CAB401 - High Performance and Parallel Computing\DigitalMusicAnalysisv2\WpfApplication1\MainWindow.xaml.cs"
+           line_no="726"
+           routine="WpfApplication1::MainWindow::playBack"
+           is_vectorized="0"
+           self_time="1.096386E-002"
+           total_time="1.096386E-002"
+           trip_counts=""
+           func_instance="301"
+           priority="0"/>
+</IntelParallelAdvisorSummary >
